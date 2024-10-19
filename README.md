@@ -1,6 +1,6 @@
 My NodeJS web Project
 
-pre start run : npm install
+- pre start run : npm install
 
-run : npm start
-debug : npm run debug
+- run : npm start
+- debug : npm run debug
